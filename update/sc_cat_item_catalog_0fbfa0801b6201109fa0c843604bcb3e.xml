@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="new Request for NEEDIt">70af20801b6201109fa0c843604bcbe4</sc_cat_item>
+        <sc_catalog display_value="NeedIT catalog">ec0d68cc1b2201109fa0c843604bcb0a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 05:48:35</sys_created_on>
+        <sys_id>0fbfa0801b6201109fa0c843604bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIT catalog.new Request for NEEDIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0fbfa0801b6201109fa0c843604bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 05:48:35</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

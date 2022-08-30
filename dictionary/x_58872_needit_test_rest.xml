@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="test REST" max_length="40" name="x_58872_needit_test_rest" sizeclass="0" type="collection"/>
+</database>
